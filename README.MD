@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Ready-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 💼 Financial Risk Matrix Dashboard
 
 An interactive Financial Risk Analysis Dashboard built using Python, Streamlit, Pandas, and Plotly.  
@@ -53,5 +57,5 @@ MIT License
 ## Author
 
 Hem Mistry  
-Mechanical Engineering Student | Data & Risk Enthusiast  
+Mechanical Engineering Student  
 📍 India
